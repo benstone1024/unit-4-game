@@ -1,0 +1,15 @@
+h1  {
+    background-color: lightblue;
+    text-align: center;
+    height:50px;
+    padding:auto;
+    margin:auto;
+
+}
+
+.crystals {
+    width:100px;
+    height:100px;
+    border:2px;
+    color:red;
+}

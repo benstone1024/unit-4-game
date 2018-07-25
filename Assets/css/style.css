@@ -1,0 +1,23 @@
+h1  {
+    background-color: lightblue;
+    text-align: center;
+    padding-top:50px;
+    padding-bottom:50px;
+    
+}
+
+ img{
+    
+    width: 150px;
+    height:150px;
+}
+
+.image{
+    margin:auto;
+    padding:50px;
+}
+
+.stats{
+    margin-top:100px;
+    margin-bottom:100px;
+}
