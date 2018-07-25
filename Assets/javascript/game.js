@@ -13,20 +13,20 @@
         var gameReset;
         var pix1=document.querySelector("#p1");
         var pix2=document.getElementById("pic2");
-        pix1.addEventListener("click",function(){
-            alert("clicked!");
-        });
+       
+        
+        
            // var gameReset= function(){
 
          //   $(".images").empty();
       
         
        
-       
+       document.getElementById("selectedNumber").innerHTML=
         randomResult=Math.floor(Math.random()*101)+19;
         //console.log(randomResult);
-
-         $("#result").html("Random Result: " + randomResult);
+        
+       
        
         for(var i=0;i<4;i++){ 
             
